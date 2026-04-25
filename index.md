@@ -21,7 +21,7 @@ For this graph we use a point plot comparing course understanding to office hour
 <img width="504" height="483" alt="image" src="https://github.com/user-attachments/assets/695f5818-bdce-4928-8dfd-24151b06c4b8" />
 
 
-Finally we use a line graph to compare course understanding to views on algorithm objectiveness. We wanted to see how understanding of computer programming effected braoder views than just those that are strictly related to COMP110. We hypothesized that there would be a negative correlation between these 2 values because those with greater computing knowledge would better understand the pitfalls of algorithms, and thus have a more modest view while those with lesser undertanding would have a more all encompoassingly positive view of algorithms.
+Finally we use a line graph to compare course understanding to views on algorithm objectiveness. We wanted to see how understanding of computer programming effected braoder views than just those that are strictly related to COMP110. We hypothesized that there would be a positive correlation between these 2 values because those taking a intro level computer science course but were understanding the material well would likely view algorithims as objective, while those who weren;t doing as well in the course may be bitter against algorithims and therefore have a more negative view.
 
 <img width="484" height="484" alt="image" src="https://github.com/user-attachments/assets/de3b7b5a-2d02-4fbc-8ff3-1b032a4db386" />
 
